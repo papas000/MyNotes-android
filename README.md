@@ -1,4 +1,5 @@
-# mynotes
-Notes app, add, update and delete entries supported by an SQL database.
+# My Notes
+Note taking app: Create, Update and Delete entries using an SQLite 3 database.
 
-Import in Android Studio
+# To run:
+Import in Android Studio, build and run on device.
